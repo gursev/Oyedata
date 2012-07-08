@@ -13,4 +13,12 @@ Oyedata is a new tool to perform black-box OData security testing and help secur
  9. Ability to identify Keys, Nullable and Non-Nullable Properties and indicate the same in the attack templates.
  10. Web proxy, HTTP and HTTPS support and Error logging.
 
+The files are:
+
+* **Oyedata User Guide Oyedata for OData Assessments.pdf** - Oyedata user guide.
+* **setup.exe** and **OyedataSetup.msi** - Oyedata setup files.
+
+System Requirements:
+* Microsoft .Net 4.0
+
 For additional informaton please visit: http://gursevkalra.blogspot.com/2012/06/oyedata-for-odata-security-testing.html
